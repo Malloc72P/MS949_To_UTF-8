@@ -7,7 +7,7 @@ MS949로 작성된 c,cpp,h,hpp파일을 UTF-8로 변환해주는 프로그램
 4) **경고! 이미 UTF-8로 작성된 c,cpp,h,hpp파일이 작업경로에 존재하면 해당 파일은 손상될 것임! 주의 필요함**
 
 # 컴파일 옵션
-1) C++ Language Standard -> Preview - Features from the Latest C++ Working Draft (std:c++latest) 로 설정하고 컴파일 할 것
-   (2020/09/10기준)
+1) C++ Language Standard -> Preview - Features from the Latest C++ Working Draft (std:c++latest)으로 설정하고
+     컴파일 할 것 (2020/09/10기준)
 
 
